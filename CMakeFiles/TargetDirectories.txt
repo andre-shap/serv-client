@@ -1,0 +1,4 @@
+/home/andre-shap/cmakeClientServer/CMakeFiles/rebuild_cache.dir
+/home/andre-shap/cmakeClientServer/CMakeFiles/edit_cache.dir
+/home/andre-shap/cmakeClientServer/CMakeFiles/Client.dir
+/home/andre-shap/cmakeClientServer/CMakeFiles/Server.dir
